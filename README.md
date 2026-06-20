@@ -109,9 +109,9 @@ I focus on simple to medium-complexity scraping projects and always aim to deliv
 
 ## Certifications
 
-🏅 Python 3 Programming — University of Michigan (2026)
+🏅 [Python 3 Programming — University of Michigan (2026)](https://coursera.org/share/75e4dc4fe26a5b1127c08a91fa96398a)
 
-🏅 Introduction to Artificial Intelligence — IBM (2025)
+🏅 [Introduction to Artificial Intelligence — IBM (2025)](https://coursera.org/share/9d9d5b4b45984c11aa5221c3ebb91d0b)
 
 ---
 
