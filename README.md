@@ -37,8 +37,6 @@ Whether you need business directories, job listings, product catalogs, lead gene
 
 * Requests
 * BeautifulSoup
-* Selenium
-* Playwright
 
 **Data Processing**
 
